@@ -1,10 +1,6 @@
-## *This Project is for School purposes only. BSIT 3 Block 3 students can only access on this.* :D
-### **This Project "Cozy Cup Cafe" features:**
-* coziness :D
-
-* happiness :D
-
-* and more :D
+## *Welcome to Cozy Cup Cafe!* :D
+### Project Description
+Cozy Cup Cafe is a simple cafe website created to showcase the menu, ambiance, and services of a cozy coffee shop.
 
 ## Screen Captures
 
@@ -12,7 +8,7 @@ Images
 
 ![coffee IMG](https://img-wixmp-fe53c9ff592a4da924211f23.wixmp.com/users/93270a8d-ac72-4250-9f35-42c17ec09547/design-previews/171236c7-8326-47a8-b731-7f75abe0a071/1769047171770-sample.jpeg?filename=Preview.png)
 
-This is the branching logo of our cafe.
+This is our Logo!
 
 ![coffee_cup IMG](https://w0.peakpx.com/wallpaper/91/42/HD-wallpaper-coffee-cup-other.jpg)
 
